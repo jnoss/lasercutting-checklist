@@ -6,6 +6,7 @@ Checklist for laser cutting
 Design file/in Corel
 - [ ] all lines to be vector-cut are hairline in corel
 - [ ] colors setup for vector/raster in 1st print dialog
+- [ ] save as corel v13 for danger awesome
 
 Preparing the work
 - [ ] protective masking tape on both sides if needed
@@ -28,3 +29,13 @@ Blue	0,0,255
 Magenta	255,0,255
 Cyan	0,255,255
 Orange	255,102,0
+
+Note cut order at danger awesome:
+blue
+red
+cyan
+green
+black
+orange
+magenta
+yellow
